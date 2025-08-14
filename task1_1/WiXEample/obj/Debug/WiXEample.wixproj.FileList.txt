@@ -1,0 +1,6 @@
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WiXEample\bin\Debug\WiXEample.msi
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WiXEample\bin\Debug\WiXEample.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WiXEample.wixproj.BindContentsFileListnull.txt
+obj\Debug\WiXEample.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WiXEample.wixproj.BindBuiltOutputsFileListnull.txt

@@ -1,0 +1,13 @@
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe.config
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.pdb
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.csproj.AssemblyReference.cache
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.Properties.Resources.resources
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.csproj.GenerateResource.cache
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.csproj.CoreCompileInputs.cache
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.exe
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.pdb
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.Form1.resources
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\ClassLibrary1.pdb
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Debug\task1_1.csproj.Up2Date
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\ClassLibrary1.dll

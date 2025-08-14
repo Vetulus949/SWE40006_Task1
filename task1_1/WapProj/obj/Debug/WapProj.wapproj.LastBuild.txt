@@ -1,0 +1,13 @@
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\SplashScreen.scale-200.png
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\LockScreenLogo.scale-200.png
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square150x150Logo.scale-200.png
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square44x44Logo.scale-200.png
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\StoreLogo.png
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Wide310x150Logo.scale-200.png
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\resources.pri
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe.config
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.pdb

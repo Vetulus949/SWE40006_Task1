@@ -1,0 +1,9 @@
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Release\task1_1.exe.config
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Release\task1_1.exe
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Release\task1_1.pdb
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Release\task1_1.csproj.AssemblyReference.cache
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Release\task1_1.Properties.Resources.resources
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Release\task1_1.csproj.GenerateResource.cache
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Release\task1_1.csproj.CoreCompileInputs.cache
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Release\task1_1.exe
+F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\obj\Release\task1_1.pdb

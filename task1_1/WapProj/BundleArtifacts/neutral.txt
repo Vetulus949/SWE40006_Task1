@@ -1,0 +1,2 @@
+MainPackage=F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\WapProj_1.0.3.0_AnyCPU_Debug.msix
+SymbolPackage=F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\obj\Debug\Symbols\WapProj_1.0.3.0_AnyCPU_Debug.appxsym
