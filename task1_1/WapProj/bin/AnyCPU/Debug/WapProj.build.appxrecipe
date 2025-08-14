@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <Machine>DOMENIC-DESKTOP</Machine>
-    <WindowsUser>Domenic</WindowsUser>
+    <Machine>DESKTOP-D5JGUR6</Machine>
+    <WindowsUser>Dom</WindowsUser>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetOsVersion>10.0</TargetOsVersion>
     <TargetOsDescription>Windows 10.0</TargetOsDescription>
@@ -10,58 +10,58 @@
     <PackageArchitecture>neutral</PackageArchitecture>
     <PackageIdentityName>b13aaee3-0897-4944-b974-53688c04a6d7</PackageIdentityName>
     <PackageIdentityPublisher>CN=Domenic</PackageIdentityPublisher>
-    <IntermediateOutputPath>F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\obj\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\obj\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath></WindowsSdkPath>
-    <LayoutDir>F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\AppX</LayoutDir>
+    <LayoutDir>E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\AppX</LayoutDir>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\AppxManifest.xml">
+    <AppXManifest Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\SplashScreen.scale-200.png">
       <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\LockScreenLogo.scale-200.png">
       <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square150x150Logo.scale-200.png">
       <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square44x44Logo.scale-200.png">
       <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\StoreLogo.png">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\StoreLogo.png">
       <PackagePath>Images\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\Images\Wide310x150Logo.scale-200.png">
       <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\resources.pri">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WapProj\bin\AnyCPU\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\ClassLibrary1\bin\Debug\ClassLibrary1.dll">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\ClassLibrary1\bin\Debug\ClassLibrary1.dll">
       <PackagePath>task1_1\ClassLibrary1.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe">
       <PackagePath>task1_1\task1_1.exe</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe.config">
+    <AppxPackagedFile Include="E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\task1_1\bin\Debug\task1_1.exe.config">
       <PackagePath>task1_1\task1_1.exe.config</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>

@@ -1,2 +1,3 @@
-F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WiXEample\bin\Debug\WiXEample.msi
-F:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WiXEample\bin\Debug\WiXEample.wixpdb
+E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WiXEample\bin\Debug\cab1.cab
+E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WiXEample\bin\Debug\WiXEample.msi
+E:\Uni\swe40006_software_deployment_evolution\task1\task1_1\WiXEample\bin\Debug\WiXEample.wixpdb
